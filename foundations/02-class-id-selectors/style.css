@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(229, 143, 201);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+    color: blue; 
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.three {
+    font-size: 24px;
+}
